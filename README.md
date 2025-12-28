@@ -10,7 +10,7 @@
 ### theme things:
 - plasma style: [Rosegarden](https://store.kde.org/p/1347849)
 - color scheme: modified version of [Azeny Dark](https://store.kde.org/p/1559218) (put in .local/share/color-schemes/)
-- window decorations: [Klassy.](https://github.com/paulmcauley/klassy) make sure to import my preset (oneshotthingy.klpw)
+- window decorations: [Klassy](https://github.com/paulmcauley/klassy)
 - icons: [Papirus (pink folders edition)](https://store.kde.org/p/1166289/)
 - font: Terminus (TTF). if you have oneshot (regular, not the world machine edition) installed, you can just copy the font (file name: TerminusTTF-Bold.ttf) from ~/.local/share/Steam/steamapps/common/OneShot/Fonts/
 
