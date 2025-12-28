@@ -1,4 +1,4 @@
-# my oneshot themed dotfiles 
+# my oneshot themed rice  
 
 ### info and stuff:
 - plasma version: 6.5.4  
