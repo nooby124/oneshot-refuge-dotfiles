@@ -3,7 +3,9 @@
 ### info and stuff:
 - plasma version: 6.5.4  
 - os: arch (btw)  
-- window manager: kwin  
+- window manager: kwin
+- shell: zsh
+- terminal emulator: kitty
   
 ### theme things:
 - plasma style: [Rosegarden](https://store.kde.org/p/1347849)
@@ -11,6 +13,8 @@
 - window decorations: [Klassy.](https://github.com/paulmcauley/klassy) make sure to import my preset (oneshotthingy.klpw)
 - icons: [Papirus (pink folders edition)](https://store.kde.org/p/1166289/)
 - font: Terminus (TTF). if you have oneshot (regular, not the world machine edition) installed, you can just copy the font (file name: TerminusTTF-Bold.ttf) from ~/.local/share/Steam/steamapps/common/OneShot/Fonts/
+
+for the fastfetch image to load put this command in your ~/.zshrc: "fastfetch --logo ~/.config/fastfetch/images/niko.png --logo-type kitty-direct --logo-width 42 --logo-height 18"
 
 ### widgets and crap:
 - clock in desktop: [Clear Clock](https://store.kde.org/p/1666554)
