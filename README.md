@@ -1,3 +1,4 @@
+i dont use this anymore. check out the [hyprland version](https://github.com/nooby124/oneshot-refuge-dotfiles/tree/hyprland)
 # my oneshot themed rice  
 
 ### info and stuff:
